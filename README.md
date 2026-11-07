@@ -31,6 +31,7 @@ NetMap is a beta, so expect some rough edges.
 
 ## Privacy and ground rules
 - Your data stays on your PC, in `%LOCALAPPDATA%\NetMap`. Nothing is uploaded.
+- A new install starts with a blank account and never uses your Windows account name.
 - Online look-ups only open in your browser when you click them.
 - It only scans your own local subnet. Port checks are opt-in, rate-limited and limited to that subnet.
 - Nothing attacks anything outside your network. Only use NetMap on networks you own or have permission to test.
