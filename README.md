@@ -27,6 +27,7 @@ NetMap is a beta, so expect some rough edges.
 - **TRUSTED:** a reviewed allowlist
 - **NETWORK VAULT:** a history of each network you join
 - **ACTIVE DEFENSE:** local honeypots, bait files, firewall blocking and self-audits
+- **PACKET CAPTURE:** record this PC's own traffic (needs admin) and read captures with colour-coded protocols and Wireshark-style detail
 
 ## Privacy and ground rules
 - Your data stays on your PC, in `%LOCALAPPDATA%\NetMap`. Nothing is uploaded.
