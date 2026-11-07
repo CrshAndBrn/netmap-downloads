@@ -5,7 +5,7 @@ A local security console for one Windows PC and its home network, styled as a lo
 **This repository holds downloads only. The source code is not public.**
 
 ## Download
-1. Open the [latest release](../../releases/latest).
+1. Open the [Releases page](../../releases) and pick the newest one.
 2. Download `NetMap-<version>-windows-x64.zip`.
 3. Unzip it and run `NetMap.exe`. Python isn't needed.
 
